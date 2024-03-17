@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "type": "button",
+    "label": "Button",
+    "text": "alert something !!",
+    "alerMess": "hello world !"
+  },
+  {
+    "id": 2,
+    "type": "paragraph",
+    "label": "Paragraph",
+    "content": "hello customer !! hello customer !!"
+  }
+]
